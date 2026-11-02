@@ -1,0 +1,526 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "nav": "Start",
+      "eyebrow": "Fernsehen über Internet",
+      "title": "IPTV Deutschland 8K | 7-Tage-Test mit täglicher Erneuerung",
+      "description": "IPTV in Deutschland testen: bis zu 7 einzelne Tests in 30 Tagen, täglich neu anfragen. Laufzeiten und parallele Streams vergleichen, Preis in Euro erfragen.",
+      "h1": "IPTV Deutschland. Erst testen, dann ein Abo wählen.",
+      "lead": "Passt der regionale Sender? Läuft der Fernseher auch am Abend flüssig? Probiere IPTV auf deinem eigenen Gerät aus und wähle anschließend die Laufzeit und Zahl der Streams für deinen Haushalt.",
+      "kind": "home"
+    },
+    {
+      "path": "/iptv-abonnement/",
+      "nav": "Abos",
+      "eyebrow": "Laufzeiten und Preise",
+      "title": "IPTV Abo Deutschland | Laufzeit und Preis in Euro anfragen",
+      "description": "Vergleiche IPTV-Abos von 1 bis 24 Monaten und wähle 1 bis 6 gleichzeitige Streams. Fordere den Gesamtpreis in Euro per WhatsApp an.",
+      "h1": "IPTV Abo für Deutschland vergleichen",
+      "lead": "Entscheidend ist, wie viele Personen gleichzeitig fernsehen. Wähle zuerst die Streams und dann die Laufzeit. Die Preisanfrage enthält beides bereits, bevor du WhatsApp öffnest.",
+      "kind": "plans",
+      "sections": [
+        [
+          "Welches Abo passt zu meinem Haushalt?",
+          "Ein Fernseher im Wohnzimmer und ein gelegentlich genutztes Tablet brauchen einen gleichzeitigen Stream, wenn immer nur ein Gerät läuft. Möchte jemand parallel im Schlafzimmer weiterschauen, frage zwei Streams an. Kläre getrennt davon, auf welchen Geräten du die App installieren kannst."
+        ],
+        [
+          "Was sollte im Angebot stehen?",
+          "Bitte um den Gesamtbetrag in Euro für die gesamte Laufzeit und die gewählte Anzahl Streams. Frage zusätzlich nach etwaigen App- oder Einrichtungskosten, dem Beginn der Laufzeit, den Bedingungen einer Verlängerung und einem möglichen Gerätewechsel. Speichere das Angebot vor einer Entscheidung."
+        ],
+        [
+          "Wann lohnt eine längere Laufzeit?",
+          "Teste zunächst den Fernseher, den du regelmäßig nutzt, und den Sender, auf den es dir ankommt. Eine längere Laufzeit ist erst vergleichbar, wenn dieselben Streams und Leistungen im Angebot stehen. Für unregelmäßige Nutzung kann eine kurze Laufzeit trotz höherem Monatswert besser passen."
+        ]
+      ],
+      "related": [
+        "/ratgeber/iptv-kosten/",
+        "/mehrere-geraete/",
+        "/iptv-test/"
+      ]
+    },
+    {
+      "path": "/iptv-test/",
+      "nav": "Test",
+      "eyebrow": "Zugang ausprobieren",
+      "title": "IPTV 7-Tage-Test in Deutschland | Täglich neu anfragen",
+      "description": "IPTV kostenlos testen: Öffne das Formular, prüfe deinen Fernseher und sende frühestens nach 24 Stunden eine neue Anfrage. Bis zu 7 Tests in 30 Tagen.",
+      "h1": "IPTV kostenlos testen – auf deinem Fernseher",
+      "lead": "Ein Test beantwortet mehr als eine lange Senderliste. Nutze dasselbe Gerät und dieselbe Internetverbindung, mit denen du später fernsehen möchtest.",
+      "kind": "trial",
+      "sections": [
+        [
+          "1. Testformular öffnen",
+          "Trage deine Kontaktdaten ein, wähle die Anschlussart und führe die Sicherheitsprüfung durch. Für eine App oder einen Smart-TV wählst du die Variante für Xtream Codes beziehungsweise M3U. Bei einer MAG-Box gilt die im Formular angezeigte Vorgehensweise."
+        ],
+        [
+          "2. Zugang im passenden Player einrichten",
+          "Übernimm die angezeigten Zugangsdaten exakt. Bei einer M3U-Adresse ist die gesamte Adresse wichtig. Bei Xtream Codes gehören Serveradresse, Benutzername und Passwort in getrennte Felder. Teile die Zugangsdaten nicht in öffentlichen Gruppen."
+        ],
+        [
+          "3. Deinen Fernsehabend nachstellen",
+          "Suche einen konkreten Sender und die passende Regionalfassung. Wechsle Audio und Untertitel, teste den Programmführer und beobachte die Wiedergabe für einen längeren Abschnitt am Stück. Notiere Sender, Uhrzeit, Gerät und Verbindungsart, falls du Hilfe brauchst."
+        ],
+        [
+          "Was bedeutet das 7-Tage-Testprogramm?",
+          "Ein neuer Testzugang kann frühestens nach 24 Stunden angefragt werden. Insgesamt sind bis zu sieben Tests innerhalb von 30 Tagen möglich. Die Grenzen gelten gemeinsam für die regionalen Websites. Jeder Zugang hat ein eigenes Ablaufdatum, das der Aktivierungsdienst festlegt. Prüfe die angezeigte Ablaufzeit im Player."
+        ]
+      ],
+      "related": [
+        "/ratgeber/einrichtung/",
+        "/sender/",
+        "/kontakt/"
+      ]
+    },
+    {
+      "path": "/sender/",
+      "nav": "Sender",
+      "eyebrow": "Programmwahl",
+      "title": "IPTV Sender Deutschland | Region, Ton und EPG gezielt prüfen",
+      "description": "Prüfe die exakte Regionalfassung, Tonspur, Untertitel und den Programmführer deines IPTV-Senders vor der Abo-Auswahl.",
+      "h1": "Deutsche IPTV-Sender gezielt prüfen",
+      "lead": "Eine Senderbezeichnung allein beantwortet selten, ob du genau die gewünschte Ausgabe siehst. Schreibe den vollständigen Sendernamen und die Sendung auf, die du regelmäßig sehen möchtest.",
+      "kind": "article",
+      "sections": [
+        [
+          "Regionale Sendungen wiederfinden",
+          "Wenn dich die Lokalzeit aus Köln oder ein Regionalmagazin aus deinem Bundesland interessiert, frage nach genau dieser Ausgabe. Prüfe sie während ihrer üblichen Sendezeit. Zwei ähnlich benannte HD-Kanäle können zu anderen Zeiten dasselbe Programm zeigen und erst im Regionalfenster voneinander abweichen."
+        ],
+        [
+          "Ton, Untertitel und Programmführer trennen",
+          "Ein Sender kann spielen, während sein Programmführer fehlt oder eine falsche Uhrzeit zeigt. Prüfe den aktuellen Programmtitel, dann den nächsten. Öffne im Player das Audio- und Untertitelmenü. Deutsche Tonspur, Originalton, Audiodeskription und Untertitel sind unterschiedliche Funktionen und können je nach Sendung variieren."
+        ],
+        [
+          "Offizielle Angebote als Programmreferenz nutzen",
+          "Vergleiche Titel und Sendezeit direkt im offiziellen Programm. Die ARD Mediathek führt die Livestreams der ARD, das ZDF seine eigenen Live-Angebote. Diese Links helfen dir, einen konkreten Programmpunkt zu benennen. Ob ein Sender oder eine Funktion in einem angefragten IPTV-Angebot verfügbar ist, prüfst du gesondert im Test."
+        ]
+      ],
+      "resources": [
+        [
+          "ARD Mediathek – Live",
+          "https://www.ardmediathek.de/live"
+        ],
+        [
+          "ZDF – Live-TV",
+          "https://www.zdf.de/live-tv"
+        ]
+      ],
+      "related": [
+        "/iptv-test/",
+        "/live-sport/",
+        "/ratgeber/anbieter-vergleichen/"
+      ]
+    },
+    {
+      "path": "/live-sport/",
+      "nav": "Live-Sport",
+      "eyebrow": "Sport am großen Bildschirm",
+      "title": "IPTV für Live-Sport in Deutschland | So testest du ein Spiel",
+      "description": "Prüfe für Live-Sport den konkreten Wettbewerb, Sender, Kommentar und Wiedergabe auf deinem Fernseher. Vergleiche das Ergebnis vor dem Abo.",
+      "h1": "Live-Sport mit IPTV testen",
+      "lead": "Bei einem Fußballspiel zählen der richtige Feed und eine stabile Wiedergabe bei Kameraschwenks. Plane den Test um eine Begegnung, die du tatsächlich sehen möchtest.",
+      "kind": "article",
+      "sections": [
+        [
+          "Wettbewerb und Übertragung genau benennen",
+          "Schreib Verein, Wettbewerb, Spieltag und Anstoßzeit auf. Ein Bundesligaspiel, ein Pokalspiel und eine Zusammenfassung sind verschiedene Inhalte. Kläre beim offiziellen Veranstalter oder Rechteanbieter, wer die gewünschte Partie zeigt. Frage anschließend nach dem konkreten Sender und vergleiche ihn im Test. Eine Sportkategorie ist keine Zusage für ein bestimmtes Spiel."
+        ],
+        [
+          "Während des Spiels auf Bewegung und Ton achten",
+          "Prüfe, ob Trikots und Schriften bei einer Kamerafahrt gut erkennbar bleiben und ob Ton und Bild zusammenpassen. Wechsle zum vorgesehenen deutschen Kommentar und beobachte ein paar Minuten am Stück. Bei zeitversetztem Bild hilft ein Vergleich mit demselben Gerät und demselben Stream statt eines Vergleichs verschiedener Übertragungswege."
+        ],
+        [
+          "Ein Ergebnis für den Support festhalten",
+          "Notiere die Uhrzeit, den Sender und das Gerät. Wenn es nur beim Sport ruckelt, teste zusätzlich eine andere Livesendung mit viel Bewegung. Tritt das Problem nur per WLAN auf, vergleiche am selben Fernseher – soweit möglich – mit einem Netzwerkkabel. So lässt sich der Fehler besser eingrenzen."
+        ]
+      ],
+      "related": [
+        "/ratgeber/iptv-ruckelt/",
+        "/sender/",
+        "/iptv-test/"
+      ]
+    },
+    {
+      "path": "/filme-und-serien/",
+      "nav": "Filme und Serien",
+      "eyebrow": "Filmabend und Mediathek",
+      "title": "IPTV Filme und Serien in Deutschland | Auswahl und Ton prüfen",
+      "description": "Prüfe einen gewünschten Film oder eine Serie anhand von Staffel, deutscher Tonspur, Untertiteln und Bildformat auf deinem eigenen Fernseher.",
+      "h1": "Filme und Serien mit IPTV prüfen",
+      "lead": "Für deinen Filmabend ist der konkrete Titel wichtiger als die Größe einer Bibliothek. Halte Filmtitel, Erscheinungsjahr und die gewünschte Sprachfassung bereit.",
+      "kind": "article",
+      "sections": [
+        [
+          "Den richtigen Titel finden",
+          "Bei gleichnamigen Filmen helfen Erscheinungsjahr und Regie. Bei einer Serie sind Staffel und Folge wichtig. Frage nach genau dieser Fassung und ob sie für deinen Standort angeboten wird. Eine Werbeillustration bestätigt weder die Aufnahme eines Titels in eine Bibliothek noch dessen laufende Verfügbarkeit."
+        ],
+        [
+          "Sprache und Wiedergabe auf deinem Gerät",
+          "Teste eine Dialogszene und öffne das Tonmenü. Prüfe deutsche Synchronfassung, Originalton und vorhandene Untertitel getrennt. Halte die Wiedergabe kurz an, springe vor und öffne denselben Titel nach einem Neustart erneut. So siehst du, welche Bedienfunktionen dein Player unterstützt."
+        ],
+        [
+          "Bildqualität richtig einschätzen",
+          "Ein großer Fernseher verbessert das Quellmaterial nicht automatisch. Vergleiche dieselbe Szene ohne zusätzliche Bildfilter und achte auf dunkle Flächen, Bewegung und lesbare Untertitel. Beurteile die Qualität am üblichen Sitzabstand. Frag vor dem Abo nach, welche Fassungen und Auflösungen für deine Wunschinhalte konkret verfügbar sind."
+        ]
+      ],
+      "related": [
+        "/iptv-test/",
+        "/geraete/",
+        "/iptv-abonnement/"
+      ]
+    },
+    {
+      "path": "/geraete/",
+      "nav": "Geräte",
+      "eyebrow": "Player und Fernseher",
+      "title": "IPTV auf Smart-TV, Fire TV und Handy | Gerätecheck",
+      "description": "Prüfe Modell, Betriebssystem, App-Verfügbarkeit und das passende Zugangsformat für deinen Smart-TV, Fire TV, dein Smartphone oder eine MAG-Box.",
+      "h1": "Welches Gerät eignet sich für IPTV?",
+      "lead": "Der Markenname reicht für eine Einrichtungsempfehlung selten aus. Notiere zuerst die Modellnummer, das Betriebssystem und den bereits installierten Player.",
+      "kind": "devices",
+      "sections": [
+        [
+          "Smart-TV und Streaming-Stick",
+          "Öffne den App-Store direkt am Fernseher oder Stick und suche nach dem gewünschten Player. Prüfe dabei das genaue Modell. Selbst Produkte derselben Serie können unterschiedliche Systeme und App-Kataloge haben. Kläre mögliche App-Kosten, bevor du den Zugang einträgst."
+        ],
+        [
+          "Smartphone, Tablet und Computer",
+          "Teste zunächst zu Hause im WLAN. Für unterwegs kann die Verbindung anders ausfallen. Prüfe am jeweiligen Gerät, ob du die Zugangsdaten manuell eintragen kannst, Untertitel lesen kannst und die App nach einem Neustart denselben Sender wiederfindet."
+        ],
+        [
+          "MAG-Box und Gerätewechsel",
+          "Bei einer MAG-Box wird im Testformular die dafür vorgesehene Anschlussart gewählt. Gib die angefragte Kennung nur im vorgesehenen Formular an. Kläre bei einem Wechsel auf eine neue Box oder App, ob der Zugang neu zugeordnet werden muss. Ein zusätzlich installiertes Gerät ist kein zusätzlicher paralleler Stream."
+        ]
+      ],
+      "related": [
+        "/ratgeber/einrichtung/",
+        "/mehrere-geraete/",
+        "/iptv-test/"
+      ]
+    },
+    {
+      "path": "/mehrere-geraete/",
+      "nav": "Mehrere Geräte",
+      "eyebrow": "Parallel fernsehen",
+      "title": "IPTV auf mehreren Geräten | Parallele Streams vergleichen",
+      "description": "Ermittle, wie viele gleichzeitige IPTV-Streams dein Haushalt braucht. Vergleiche zwei Fernseher, Tablet und weitere Geräte vor der Preisanfrage.",
+      "h1": "IPTV auf mehreren Geräten im Haushalt",
+      "lead": "Zähle laufende Wiedergaben statt vorhandener Geräte. Drei installierte Apps bedeuten nicht automatisch, dass drei Personen gleichzeitig schauen.",
+      "kind": "article",
+      "sections": [
+        [
+          "Ein konkreter Feierabend",
+          "Im Wohnzimmer läuft ein Film, im Arbeitszimmer eine Nachrichtensendung. Das sind zwei gleichzeitige Streams. Schaltet jemand später vom Fernseher auf das Tablet um und beendet zuerst die alte Wiedergabe, kommt dadurch kein dritter paralleler Stream hinzu."
+        ],
+        [
+          "Die Spitzenzeit statt den Durchschnitt planen",
+          "Schreibe für einen normalen Werktag und ein Wochenende auf, wer wann schaut. Entscheidend ist der Moment mit den meisten Überschneidungen. Prüfe auch, ob das Angebot die Kombination deiner Geräte und die vorgesehene Nutzung an unterschiedlichen Orten zulässt. Hole diese Bedingungen vor der Buchung schriftlich ein."
+        ],
+        [
+          "Auswahl und Test sauber trennen",
+          "In der Abo-Anfrage kannst du eine bis sechs gleichzeitige Wiedergaben auswählen. Größere Haushalte fragen individuell an. Der einzelne Testzugang bestätigt nicht automatisch alle parallelen Verbindungen eines künftigen Abos. Lass dir die gewünschte Zahl ausdrücklich im Angebot bestätigen."
+        ]
+      ],
+      "related": [
+        "/iptv-abonnement/",
+        "/ratgeber/iptv-kosten/",
+        "/geraete/"
+      ]
+    },
+    {
+      "path": "/ratgeber/einrichtung/",
+      "nav": "Einrichtung",
+      "eyebrow": "Schritt für Schritt",
+      "title": "IPTV einrichten in Deutschland | M3U und Xtream Codes",
+      "description": "So ordnest du Server, Benutzername und Passwort oder eine M3U-Adresse dem richtigen Eingabefeld zu und prüfst den ersten Sender.",
+      "h1": "IPTV einrichten – vom Testzugang zum ersten Bild",
+      "lead": "Lege die Zugangsdaten und den Namen deines Players bereit. Prüfe vor dem Start, welches Eingabeformat der Aktivierungsdienst ausgibt und deine App unterstützt.",
+      "kind": "article",
+      "sections": [
+        [
+          "Das passende Format auswählen",
+          "Bei einer M3U-Adresse kopierst du die ganze URL in das Feld für die Playlist. Bei Xtream Codes gibst du Server, Benutzername und Passwort getrennt ein. Verwechsle den Anzeigenamen einer Liste nicht mit dem Benutzernamen. Achte auf Leerzeichen am Ende einer Eingabe und die genaue Schreibweise."
+        ],
+        [
+          "Erste Wiedergabe und EPG testen",
+          "Warte, bis die Liste eingelesen wurde. Suche nach einem konkreten Sender, wechsle zwischen zwei Sendern und kehre zum ersten zurück. Prüfe anschließend den Programmführer. Wenn die Sendung spielt, aber die Uhrzeit falsch erscheint, prüfe Zeitzone, Datum und EPG-Einstellungen im Gerät."
+        ],
+        [
+          "Wenn die Anmeldung scheitert",
+          "Kontrolliere die tatsächlich angezeigte Ablaufzeit und den gewählten Anschluss. Bei einer Fehlermeldung hilft der genaue Wortlaut. Sende dem Support Modell, Player und Zeitpunkt. Ein Screenshot mit vollständig lesbaren Zugangsdaten ist für die erste Fehlerbeschreibung nicht nötig."
+        ]
+      ],
+      "related": [
+        "/geraete/",
+        "/ratgeber/iptv-ruckelt/",
+        "/kontakt/"
+      ]
+    },
+    {
+      "path": "/ratgeber/iptv-kosten/",
+      "nav": "Kosten",
+      "eyebrow": "Preise in Euro",
+      "title": "Was kostet IPTV in Deutschland? | Angebote richtig vergleichen",
+      "description": "Vergleiche Gesamtpreis, Laufzeit, gleichzeitige Streams, Player und Geräte. Rechne zwei unverbindliche IPTV-Angebote auf denselben Zeitraum um.",
+      "h1": "IPTV-Kosten in Deutschland vergleichen",
+      "lead": "Ein Monatsbetrag sagt wenig aus, solange Laufzeit, Parallelstreams und Zusatzkosten verschieden sind. Nimm für den Vergleich zwei konkrete schriftliche Angebote.",
+      "kind": "cost",
+      "sections": [
+        [
+          "Alle Beträge für denselben Zeitraum erfassen",
+          "Notiere den Gesamtpreis für die Vertragslaufzeit. Ergänze unvermeidbare Kosten für App, Einrichtung oder ein zusätzliches Gerät. Wenn du ein vorhandenes Gerät nutzt, gehören dessen frühere Anschaffungskosten nicht erneut in die laufende Rechnung. Halte einmalige und regelmäßige Ausgaben getrennt."
+        ],
+        [
+          "Auf Monate und Streams umrechnen",
+          "Teile den Gesamtbetrag einschließlich der für diesen Vergleich relevanten Extras durch die Laufzeit in Monaten. Für einen zusätzlichen Vergleich pro gleichzeitigem Stream teilst du diesen Monatswert durch die bestätigte Zahl paralleler Wiedergaben. Das ist eine Rechengröße, kein einzeln buchbarer Preis."
+        ],
+        [
+          "Vor der Zahlung schriftlich klären",
+          "Lass dir den Endbetrag in Euro, den Laufzeitbeginn, die gewählte Zahl der Streams und die Verlängerungsbedingungen bestätigen. Ein günstigeres Angebot ist für deinen Haushalt nur dann vergleichbar, wenn auch deine Geräte, Programme und benötigten Funktionen abgedeckt sind."
+        ]
+      ],
+      "related": [
+        "/iptv-abonnement/",
+        "/mehrere-geraete/",
+        "/ratgeber/anbieter-vergleichen/"
+      ]
+    },
+    {
+      "path": "/ratgeber/iptv-ruckelt/",
+      "nav": "Wiedergabe prüfen",
+      "eyebrow": "Fehlersuche",
+      "title": "IPTV ruckelt oder puffert? | Verbindung gezielt prüfen",
+      "description": "Grenze Wiedergabeprobleme ein: Vergleiche Sender, Player, WLAN und Kabel am selben Gerät und protokolliere Zeitpunkt und Fehlermeldung.",
+      "h1": "IPTV ruckelt – so grenzt du die Ursache ein",
+      "lead": "Ändere pro Vergleich nur eine Sache. Wenn Sender, Gerät und Verbindung gleichzeitig wechseln, lässt sich die Ursache eines Aussetzers kaum eingrenzen.",
+      "kind": "article",
+      "sections": [
+        [
+          "Betrifft es einen Sender oder mehrere?",
+          "Spiele denselben Sender ein paar Minuten ab. Notiere Uhrzeit und Fehlerbild. Probiere danach einen anderen Sender mit vergleichbarer Bewegung. Bleiben andere Programme stabil, ist das ein anderer Ausgangspunkt als ein Abbruch bei jedem Sender."
+        ],
+        [
+          "WLAN am tatsächlichen Fernseher prüfen",
+          "Teste am üblichen Standort und zur typischen Nutzungszeit. Wenn möglich, vergleiche denselben Stream auf demselben Gerät per Netzwerkkabel. Pausiere für einen Vergleich große Downloads im Haushalt. Ein einzelner Geschwindigkeitstest neben dem Router ersetzt diese Beobachtung am Fernseher nicht."
+        ],
+        [
+          "Was der Support braucht",
+          "Nenne Sender, Datum und Uhrzeit, Player, Gerätemodell und Verbindungsart. Schreib dazu, ob nur das Bild stockte, der Ton aussetzte oder eine Fehlermeldung erschien. Schicke keine Passwörter in öffentlichen Kommentaren. Mit einem wiederholbaren Beispiel kann der Support zielgerichteter prüfen."
+        ]
+      ],
+      "related": [
+        "/iptv-test/",
+        "/geraete/",
+        "/kontakt/"
+      ]
+    },
+    {
+      "path": "/ratgeber/anbieter-vergleichen/",
+      "nav": "Anbieter vergleichen",
+      "eyebrow": "Kaufentscheidung",
+      "title": "IPTV Anbieter vergleichen | Fünf Fragen vor dem Abo",
+      "description": "Vergleiche Anbieter anhand von Senderrechten, Geräteunterstützung, Testbedingungen, Endpreis und Hilfe bei Störungen.",
+      "h1": "IPTV-Anbieter für Deutschland vergleichen",
+      "lead": "Beginne mit deiner eigenen Wunschliste. Drei regelmäßig genutzte Programme, die richtigen Geräte und eine erreichbare Anlaufstelle sagen mehr aus als eine große Zahl im Werbebanner.",
+      "kind": "article",
+      "sections": [
+        [
+          "Programme und Herkunft des Angebots",
+          "Benenne den genauen Sender, die Regionalausgabe und bei Sport den Wettbewerb. Lass dir erklären, welche Inhalte für deinen Standort angeboten werden dürfen und welche Bedingungen gelten. Aus einem bekannten Sendernamen oder einer gezeigten Szene lässt sich keine Vertriebsberechtigung ableiten."
+        ],
+        [
+          "Technik und Support ausprobieren",
+          "Prüfe denselben Sender am eigenen Fernseher und zur normalen Abendzeit. Frage nach kompatiblen Playern, möglichen App-Kosten und dem Ablauf bei einem Gerätewechsel. Stelle vor dem Kauf eine konkrete Supportfrage. Die Antwort sollte sich auf dein Modell und dein Problem beziehen."
+        ],
+        [
+          "Preis und Bedingungen vergleichen",
+          "Halte Laufzeit, Endbetrag, Zahl der Streams und Verlängerung schriftlich fest. Kläre ebenso, an wen du dich bei Störungen wendest. Ein IPTV-Testzugang hilft bei der Technikprüfung. Vertragspartner, Rechte und Zahlungsbedingungen prüfst du zusätzlich anhand des Angebots."
+        ]
+      ],
+      "related": [
+        "/iptv-abonnement/",
+        "/ratgeber/iptv-kosten/",
+        "/iptv-test/"
+      ]
+    },
+    {
+      "path": "/fragen/",
+      "nav": "Häufige Fragen",
+      "eyebrow": "Antworten für deinen Haushalt",
+      "title": "IPTV Deutschland FAQ | Test, Abo, Geräte und Streams",
+      "description": "Antworten auf häufige Fragen zu IPTV-Testzugängen, gleichzeitigen Streams, Preisen in Euro, regionalen Sendern und Playern.",
+      "h1": "Häufige Fragen zu IPTV Deutschland",
+      "lead": "Hier findest du kurze Antworten und die passende nächste Seite, wenn du den Test einrichten, ein Angebot vergleichen oder ein Wiedergabeproblem eingrenzen möchtest.",
+      "kind": "faq",
+      "related": [
+        "/iptv-test/",
+        "/iptv-abonnement/",
+        "/kontakt/"
+      ]
+    },
+    {
+      "path": "/kontakt/",
+      "nav": "Kontakt",
+      "eyebrow": "Direkter Kontakt",
+      "title": "IPTV Deutschland Kontakt | Hilfe und Angebot per WhatsApp",
+      "description": "Frage nach einem IPTV-Angebot in Euro oder hole Hilfe bei der Einrichtung. Teile Modell, Player und Fehlerbild für eine gezielte Antwort mit.",
+      "h1": "IPTV Deutschland kontaktieren",
+      "lead": "Eine konkrete Anfrage spart Rückfragen. Für ein Angebot genügen Laufzeit und gewünschte Streams. Bei einem technischen Problem sind Gerät, Player und Fehlerbild hilfreicher.",
+      "kind": "contact",
+      "sections": [
+        [
+          "Frage zu einem Angebot",
+          "Wähle auf der Abo-Seite zuerst die parallelen Streams und dann die Laufzeit. Der WhatsApp-Link bereitet eine kurze Nachricht vor. Prüfe sie und sende sie erst dann selbst ab. Eine Anfrage löst keine Zahlung aus."
+        ],
+        [
+          "Hilfe beim Test oder bei der Wiedergabe",
+          "Nenne das Gerätemodell, den Namen des Players, den Sender und die Uhrzeit. Bei einem abgelaufenen Test prüfe zuerst die im Player oder Formular angezeigte Ablaufzeit. Für die erste Anfrage genügt eine Fehlerbeschreibung ohne Passwort."
+        ]
+      ],
+      "related": [
+        "/iptv-abonnement/",
+        "/iptv-test/",
+        "/ratgeber/iptv-ruckelt/"
+      ]
+    },
+    {
+      "path": "/datenschutz/",
+      "nav": "Datenschutz",
+      "eyebrow": "Daten und Dienste",
+      "title": "Datenschutz | IPTV Deutschland 8K",
+      "description": "Welche Verbindungen beim Seitenaufruf, beim Öffnen des Testformulars und beim Wechsel zu WhatsApp entstehen und wie du eine Anfrage stellst.",
+      "h1": "Datenschutz und externe Dienste",
+      "lead": "Diese Übersicht beschreibt die technischen Wege auf dieser Vorschau. Du entscheidest, ob du das externe Testformular oder WhatsApp öffnest.",
+      "kind": "info",
+      "sections": [
+        [
+          "Besuch der Website",
+          "Die statischen Seiten werden über Cloudflare Pages ausgeliefert. Bei der Auslieferung erhält der Hostingdienst technische Verbindungsinformationen, darunter die IP-Adresse. Die Website verwendet keine eigenen Werbepixel und setzt für die Tarifauswahl keinen eigenen Cookie. Der Rechner arbeitet im Browser."
+        ],
+        [
+          "Testformular und Aktivierung",
+          "Erst wenn du das Formular öffnest, wird eine Verbindung zum gemeinsamen Aktivierungsdienst hergestellt. Der Dienst fragt Kontaktdaten und je nach Anschlussart technische Angaben ab. Zur Missbrauchsabwehr gelten gemeinsame Anfragelimits und eine Sicherheitsprüfung. Prüfe vor dem Absenden die im Formular angezeigten Informationen und die dort verlinkten Hinweise."
+        ],
+        [
+          "Kontakt über WhatsApp",
+          "Ein WhatsApp-Link öffnet den externen Dienst mit einer vorbereiteten Nachricht. Die Nachricht sendest du selbst. Teile nur die zur Bearbeitung benötigten Angaben. Bei Datenschutzfragen nenne den betroffenen Vorgang, aber keine Passwörter. Der Betreiber muss seine vollständigen Verantwortlichen- und Kontaktdaten vor dem öffentlichen Verkaufsstart ergänzen."
+        ]
+      ],
+      "resources": [
+        [
+          "Cloudflare – Datenschutzhinweise",
+          "https://www.cloudflare.com/de-de/privacypolicy/"
+        ],
+        [
+          "WhatsApp – Datenschutzrichtlinie",
+          "https://www.whatsapp.com/legal/privacy-policy-eea"
+        ]
+      ],
+      "related": [
+        "/kontakt/",
+        "/anbieterinformationen/"
+      ]
+    },
+    {
+      "path": "/anbieterinformationen/",
+      "nav": "Anbieterinformationen",
+      "eyebrow": "Stand der Vorschau",
+      "title": "Anbieterinformationen | IPTV Deutschland 8K",
+      "description": "Informationen zum Vorschauangebot, zum Kontaktweg und zu den Angaben, die vor einer verbindlichen Bestellung vorliegen müssen.",
+      "h1": "Anbieterinformationen",
+      "lead": "Diese Vorschau ermöglicht technische Tests und unverbindliche Preisanfragen. Die vollständigen gesetzlichen Anbieterangaben sind noch ausstehend.",
+      "kind": "info",
+      "sections": [
+        [
+          "Stand der Anbieterangaben",
+          "Für den öffentlichen Verkaufsstart müssen der rechtliche Anbieter, seine ladungsfähige Anschrift, der direkte Kontakt und gegebenenfalls weitere Pflichtangaben veröffentlicht sein. Diese Informationen liegen für diese Vorschau noch nicht bestätigt vor."
+        ],
+        [
+          "Vor einer Bestellung",
+          "Kläre Identität und Kontaktdaten des Vertragspartners, Leistungen, Endpreis, Dauer und Beendigungsbedingungen anhand des konkreten Angebots. Auf dieser Website gibt es keinen Zahlungsabschluss. Für Fragen zur Vorschau erreichst du den Support über die Kontaktseite."
+        ]
+      ],
+      "resources": [
+        [
+          "Digitale-Dienste-Gesetz, § 5",
+          "https://www.gesetze-im-internet.de/ddg/__5.html"
+        ]
+      ],
+      "related": [
+        "/kontakt/",
+        "/datenschutz/"
+      ]
+    },
+    {
+      "path": "/angebotsablauf/",
+      "nav": "Angebotsablauf",
+      "eyebrow": "Von der Anfrage zur Entscheidung",
+      "title": "IPTV-Angebot anfragen | Ablauf und Vertragsdetails",
+      "description": "Welche Angaben du vor einer Entscheidung klären solltest: Vertragspartner, Laufzeit, Gesamtpreis, parallele Streams, Verlängerung und Support.",
+      "h1": "So läuft eine unverbindliche IPTV-Anfrage ab",
+      "lead": "Du kannst Geräte und Wunschprogramme zunächst testen. Wenn du anschließend ein Angebot möchtest, wählst du Laufzeit und Zahl der gleichzeitigen Streams.",
+      "kind": "info",
+      "sections": [
+        [
+          "1. Auswahl vorbereiten",
+          "Notiere die Laufzeit und den höchsten Bedarf an parallelen Streams in deinem Haushalt. Halte den relevanten Player und die genaue Modellnummer bereit. Wähle auf der Abo-Seite die passende Kombination."
+        ],
+        [
+          "2. Angebot anfordern",
+          "Über den Button öffnet sich WhatsApp mit einer kurzen Nachricht. Prüfe und sende sie selbst. Bitte den Support um einen Gesamtpreis in Euro, eine Beschreibung des Leistungsumfangs, den Laufzeitbeginn sowie die Bedingungen für Verlängerung und Beendigung."
+        ],
+        [
+          "3. Vor einer Zahlung entscheiden",
+          "Prüfe zuerst, wer der Vertragspartner ist und welche Vereinbarung du eingehst. Diese Vorschau nimmt keine Zahlungen entgegen. Die im Test angezeigte Ablaufzeit ist von den Laufzeiten eines späteren Angebots getrennt."
+        ]
+      ],
+      "related": [
+        "/iptv-abonnement/",
+        "/anbieterinformationen/",
+        "/kontakt/"
+      ]
+    }
+  ],
+  "faq": [
+    [
+      "Wann kann ich einen weiteren IPTV-Test anfragen?",
+      "Frühestens nach 24 Stunden. Insgesamt sind bis zu sieben Tests innerhalb von 30 Tagen möglich. Die Limits gelten gemeinsam für die regionalen Websites. Jeder Zugang hat seine eigene Ablaufzeit."
+    ],
+    [
+      "Ist das sieben Tage lang derselbe Zugang?",
+      "Nein. Das Programm besteht aus einzeln angefragten Tests. Prüfe das Ablaufdatum des jeweiligen Zugangs. Eine weitere Anfrage ist abhängig von der Verfügbarkeit und den gemeinsamen Limits."
+    ],
+    [
+      "Welche Angaben benötigt der Testzugang?",
+      "Der Aktivierungsdienst fragt die im Formular angezeigten Kontaktdaten und die Art der Verbindung ab. Wähle den Zugang passend zu deinem Player oder deiner Box. Für die MAG-Option gelten die im Formular angegebenen technischen Felder."
+    ],
+    [
+      "Brauche ich für das Testformular eine Kreditkarte?",
+      "Das Testformular fragt keine Zahlungsdaten ab. Eine Preisanfrage für ein späteres Abo ist separat."
+    ],
+    [
+      "Wie finde ich den Preis für zwei parallele Streams?",
+      "Wähle auf der Abo-Seite zwei Streams und die gewünschte Laufzeit. Der WhatsApp-Link übernimmt die Auswahl. Frage nach dem Gesamtpreis in Euro einschließlich möglicher Zusatzkosten."
+    ],
+    [
+      "Kann ich den Player auf mehreren Geräten installieren?",
+      "Das hängt vom Player, seiner Lizenz und den Angebotsbedingungen ab. Die Zahl installierter Geräte und die Zahl gleichzeitig laufender Streams sind getrennte Fragen."
+    ],
+    [
+      "Welche regionalen Sender sind enthalten?",
+      "Prüfe die genaue Regionalausgabe und eine konkrete Sendung während des Tests. Verfügbarkeit und Zusatzfunktionen können sich unterscheiden. Eine Senderkategorie bestätigt keinen bestimmten Feed."
+    ],
+    [
+      "Kann ich über die Website direkt bezahlen?",
+      "Die Website dient zum Testen und für unverbindliche Anfragen. Einen Gesamtpreis und die konkreten Vertragsbedingungen klärst du vor einer Zahlung mit dem Anbieter."
+    ],
+    [
+      "Wie kann ich ein ruckelndes Bild beschreiben?",
+      "Notiere Datum, Uhrzeit, Sender, Player und Gerätemodell. Prüfe einen zweiten Sender und vergleiche dieselbe Wiedergabe, wenn möglich, einmal über LAN und einmal über WLAN."
+    ],
+    [
+      "Sind M3U und Xtream Codes austauschbar?",
+      "Die Eingabemasken sind unterschiedlich. Nutze das Format, das dein Player unterstützt und das für deinen Zugang angegeben ist. Trage Server, Benutzername und Passwort nur in die dafür vorgesehenen Felder ein."
+    ]
+  ]
+}
